@@ -1,0 +1,27 @@
+# Studienanfänger nach Studienrichtung: W2010 -->> W2013
+# Quelle: TISS
+Studienrichtung;W2013;S2013;W2012;S2012;W2011;S2011;W2010
+Architektur;1014;429;1155;412;1278;425;1175
+Bauingenieurwesen;404;208;417;236;458;184;414
+Besuch einzelner LVAs;106;39;181;60;118;16;88
+Biomedical Engineering;49;43;60;28;48;24;47
+Computational Logic;5;0;5;0;4;1;4
+Darstellende Geometrie;0;0;0;1;0;0;0
+Elektrotechnik u Informationstechnik;304;199;473;224;490;214;563
+Geodäsie u Geoinformatik;0;0;0;0;1;0;0
+Informatik;690;330;801;404;1074;571;1196
+Informatikmanagement;1;0;1;2;1;2;8
+Lehramt;19;8;19;193;144;48;179
+Lehrgang;522;460;503;412;448;415;387
+Maschinenbau;370;186;450;165;429;159;398
+Materialwissenschaften;10;6;16;4;13;10;5
+Physik;1;0;0;0;1;0;1
+Raumplanung u Raumordnung;230;133;295;150;299;97;238
+Technische Chemie;279;98;337;133;348;107;287
+Technische Mathematik;342;140;390;137;435;141;363
+Technische Physik;356;118;401;109;399;125;377
+Verfahrenstechnik;140;49;130;65;147;45;133
+unbekannt;177;0;0;0;0;1;0
+Vermessungswesen;62;62;71;60;108;44;86
+Wirtschaftsinformatik;125;79;149;90;212;131;231
+Wirtschaftsingenieurwesen;366;151;406;148;422;133;360
